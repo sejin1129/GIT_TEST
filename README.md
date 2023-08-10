@@ -1,3 +1,0 @@
-# GIT_TEST
-
-hello
